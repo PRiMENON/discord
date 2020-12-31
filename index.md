@@ -5,9 +5,6 @@ PRiMENON のゲームチャンネルである PRiMENON Gaming に関するポー
 ## コンテンツ
 
 * [配信について](streaming.md)
-* [Discordサーバについて](discord.md)
+* [Discordについて](discord.md)
 * [マインクラフトサーバについて](minecraft.md)
 * [私について](about.md)
-
-## ライセンス
-当ページに掲載しているテキストは、ご自由にコピー、改変して使用してください。ご自分の配信ページに掲載するなり、discord のルールとして改変して掲載するなりしていただいてかまいません。
